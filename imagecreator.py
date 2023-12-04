@@ -189,7 +189,7 @@ def printblock16(image_array,x,y):
     with open("functions/{0}/x{1}y{2}.mcfunction".format(png_name,x,y),"w") as file:
         for i in range(len(image_array)):
             for j in range(len(image_array[0])):
-                file.write("setblock ~{1}~~{0} {2} \n".format(i,j,allblock.blocks[image_block_index[i][j]][3]))   
+                file.write("setblock ~{1}~~{0} {2} \n".format(i,j,allblock.blocks_16[image_block_index[i][j]][3]))   
 
 x = 0
 y = 0
