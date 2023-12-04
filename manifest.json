@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "Minecraft Image Converter Ver 2",
+    "name": "Minecraft Image Converter Ver 2",
+    "uuid": "610cda10-8990-11ee-d9cf-7d9e2344bf2f",
+    "version": [0, 0, 1]
+  },
+  "modules": [
+    {
+      "description": "Minecraft Image Converter Ver 2",
+      "type": "data",
+      "uuid": "610d4f40-8990-11ee-e2d1-6fb63bb4ba8e",
+      "version": [0, 0, 1]
+    }
+  ]
+}
